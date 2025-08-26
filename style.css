@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?
-<<<<<<< HEAD
 
 :root {
     --cor-principal:#C78BA7;
@@ -12,7 +11,6 @@
 }
 
 #body {
-    #body {
     background-color: var(--cor-rosa);
 }
 
@@ -31,17 +29,9 @@
     color: var(--cor-principal);
     cursor: pointer;
     text-decoration: underline;
-
-:root {
-      --cor-principal: #dc0080;
-    --cor-escuro: #bc00cabc;
-    --cor-secundaria: #85004c;
-    --cor-azulclaro: #380057;
-    --cor-azulescuro: #a20000;
-    --cor-branco: #ffffff;
-    --cor-preto: #000000;
 }
 
+     
 .habilidades {
     text-decoration: none;
 }
